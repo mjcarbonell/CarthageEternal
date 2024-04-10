@@ -1,0 +1,4 @@
+PHI	= "countries/Philippines.txt"
+
+CAE	= "countries/Carthage.txt"
+

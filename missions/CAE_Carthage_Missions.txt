@@ -1,0 +1,132 @@
+carthage_first_slot = {
+	slot = 1
+	generic = no
+	ai = yes
+	potential = {
+		OR = {
+			tag = CAE
+		}
+	}
+	has_country_shield = yes
+
+	carthage_mission_1 = { # first mission forms alliance with byzantium. 
+		icon = carthage_mission_1
+		required_missions = { } # NONE
+		position = 1
+		trigger = {
+			#NOT = { has_country_flag = carthage_mission_1_completed } # Prevent mission from being available if already completed
+			calc_true_if = {
+							BYZ = {
+								has_opinion = {
+									who = ROOT
+									value = 10
+								}
+							}
+							amount = 1
+				}
+		}
+		effect = {
+			add_treasury = 500
+			set_country_flag = carthage_mission_1_completed # Set a flag to indicate completion
+			country_event = {
+				id = flavor_cae.1
+			}
+		}
+	}
+	carthage_mission_2 = { # second mission extends an offer for the carthaginians to vassalize byzantium. 
+		icon = carthage_mission_2
+		required_missions = { carthage_mission_1 }
+		position = 2
+		trigger = {
+			army_size_percentage = 0.9
+			num_of_cavalry = TUR
+
+		}
+		effect = {
+			vassalize = BYZ
+			341 = {
+				add_unit_construction = {
+					type = heavy_ship
+					amount = 5
+					speed = 0.1
+					cost = 0
+				}
+			}
+		}
+	}
+}
+
+# SECOND SLOT 
+carthage_second_slot = {
+	slot = 2
+	generic = no
+	ai = yes
+	potential = {
+		OR = {
+			tag = CAE
+		}
+	}
+	has_country_shield = yes
+
+	carthage_mission_3 = { 
+		icon = carthage_mission_3
+		required_missions = { } # NONE
+		position = 1
+		provinces_to_highlight = {
+			OR = {
+				area = corsica_sardinia_area
+				area = sicily_area
+				area = western_sicily_area
+			}
+			NOT = { owned_by = ROOT }
+		}
+		trigger = {
+			corsica_sardinia_area = {
+				type = all
+				country_or_non_sovereign_subject_holds = ROOT
+			}
+			sicily_area = {
+				type = all
+				country_or_non_sovereign_subject_holds = ROOT
+			}
+			western_sicily_area = {
+				type = all
+				country_or_non_sovereign_subject_holds = ROOT
+			}
+
+		}
+		effect = {
+			naples_area = {
+				add_permanent_claim = ROOT
+			}
+			apulia_area = {
+				add_permanent_claim = ROOT
+			}
+			calabria_area = {
+				add_permanent_claim = ROOT
+			}
+			upper_andalucia_area = {
+				add_permanent_claim = ROOT
+			}
+			lower_andalucia_area = {
+				add_permanent_claim = ROOT
+			}
+			catalonia_area = {
+				add_permanent_claim = ROOT
+			}
+			valencia_area = {
+				add_permanent_claim = ROOT
+			}
+		}
+	}
+	carthage_mission_4 = { # second mission extends an offer for the carthaginians to vassalize byzantium. 
+		icon = carthage_mission_4
+		required_missions = { carthage_mission_3 }
+		position = 2
+		trigger = {
+		
+		}
+		effect = {
+		}
+	}
+}

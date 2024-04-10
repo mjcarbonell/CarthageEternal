@@ -1,0 +1,31 @@
+﻿l_english:
+ 
+ infantry_lvl1_decision_title:0 "Afford Infantry"
+ infantry_lvl1_decision_desc:0 "We must allocate funds towards our infantry."
+
+ infantry_lvl2_decision_title:0 "Infantry Fire"
+ infantry_lvl2_decision_desc:0 "We must add more firepower to our infantry."
+
+ infantry_lvl3_decision_title:0 "Infantry Ability"
+ infantry_lvl3_decision_desc:0 "We must add a final boost to the morale of our troops."
+
+ form_carthage_title:0 "Form Carthage"
+
+ flavor_cae.1.title:0 "The Romans have had their hand forced"
+ flavor_cae.1.desc:0 "We will make Byzantium an ally in a joint effort against the Ottomans."
+ flavor_cae.1.a:0 "Make an alliance with Byzantium"
+
+ form_phillipines_title:0 "Form the Phillipines"
+ form_phillipines_desc:0 "It is time to form the Phillipines."
+
+
+ 
+ 
+
+
+
+
+
+
+
+

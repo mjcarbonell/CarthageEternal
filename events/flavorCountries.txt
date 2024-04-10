@@ -1,0 +1,25 @@
+######################################
+# Army Professionalism Events        #
+#                            		 #
+# Written by Henrik Lohmander		 #
+######################################
+
+namespace = new_soldiers_events
+
+#Carthage Flavor
+namespace = flavor_cae
+
+country_event = {
+	id = flavor_cae.1
+	title = "flavor_cae.1.title"
+	desc = "flavor_cae.1.desc"
+	picture = DIPLOMACY_EVENT_PICTURE
+
+	is_triggered_only = yes # This event does not happen without being explicitly called
+
+	option = {
+		name = "flavor_cae.1.a" # Option text, such as "Form an alliance with Byzantium"
+		create_alliance = BYZ
+	}
+	
+}

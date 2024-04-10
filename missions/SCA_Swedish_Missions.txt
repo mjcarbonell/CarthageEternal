@@ -1,0 +1,50 @@
+swe_scandinavian_colonialism_mission_slot = {
+	slot = 1
+	generic = yes
+	ai = yes
+	potential_on_load = {
+		has_dlc = "Lions of the North"
+	}
+	potential = {
+		OR = {
+			tag = SWE
+			AND = {
+				was_tag = SWE
+				tag = SCA
+			}
+		}
+		has_dlc = "Lions of the North"
+		NOT = { map_setup = map_setup_random }
+	}
+	has_country_shield = yes
+	
+	test_mission_1 = {
+		icon = test_mission_1
+		required_missions = { } # NONE
+		position = 1
+		trigger = {
+		}
+		effect = {
+			add_treasury = 500
+		}
+	}
+	prepare_to_invade_charles = {
+		icon = prepare_to_invade_charles
+		required_missions = { test_mission_1 }
+		position = 2
+		
+		trigger = {
+		}
+		effect = {
+			add_treasury = 500
+			1 = {
+				add_unit_construction = {
+					type = heavy_ship
+					amount = 5
+					speed = 0.1
+					cost = 0
+				}
+			}
+		}
+	}
+}

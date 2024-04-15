@@ -124,9 +124,67 @@ carthage_second_slot = {
 		required_missions = { carthage_mission_3 }
 		position = 2
 		trigger = {
-		
+			if = { 
+				limit = { has_dlc = "Golden Century" }
+				has_flagship = yes
+			}
+			if = {
+				limit = {
+					exists = SPA
+				}
+				num_of_heavy_ship = SPA
+			}
+			else_if = {
+				limit = {
+					exists = CAS
+				}
+				num_of_heavy_ship = CAS
+			}
+			else = {
+				num_of_heavy_ship = 20
+			}
+			if = {
+				limit = {
+					exists = TUR
+				}
+				num_of_heavy_ship = TUR
+			}
+			
 		}
 		effect = {
+			add_country_modifier = {
+				name = "punic_naval_supremacy"
+				duration = 9125
+			}
+		}
+	}
+}
+
+carthage_second_slot = {
+	slot = 3
+	generic = no
+	ai = yes
+	potential = {
+		OR = {
+			tag = CAE
+		}
+	}
+	has_country_shield = yes
+	carthage_mission_5 = { # Cultural Renaissance
+		icon = carthage_mission_5
+		required_missions = {  }
+		position = 1
+		trigger = {
+			221 = {
+				country_or_non_sovereign_subject_holds = ROOT
+			}
+		}
+		effect = {
+			change_innovativeness = 3
+			add_country_modifier = {
+				name = "cultural_renaissance"
+				duration = 1825
+			}
 		}
 	}
 }

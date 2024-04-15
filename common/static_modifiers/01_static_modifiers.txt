@@ -16,31 +16,13 @@ infantry_lvl1 = {
 	infantry_cost = 0.01
 }
 
-infantry_lvl2 = {
-	fire_damage = 0.1
+punic_naval_supremacy = {
+	naval_morale = 0.1	
+}
+
+cultural_renaissance = {
+	diplomatic_reputation = 1	
 }
 
 
-infantry_lvl3 = {
-	infantry_power = 0.10
-}
 
-cavalry_lvl1 = {
-	cavalry_cost = 0.01
-}
-cavalry_lvl2 = {
-	cavalry_cost = 0.01
-}
-cavalry_lvl3 = {
-	cavalry_power = 0.01
-}
-
-artillery_lvl1 = {
-	artillery_cost = 0.01
-}
-artillery_lvl2 = {
-	artillery_cost = 0.01
-}
-artillery_lvl3 = {
-	artillery_power = 0.01
-}

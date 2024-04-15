@@ -3,37 +3,16 @@
  infantry_lvl1_title:0 "Infantry Level 1"
  infantry_lvl1_desc:0 "This is just the beginning of training our fine infantry"
 
- infantry_lvl2:0 "Infantry Level 2"
- infantry_lvl2_title:0 "Infantry Level 2"
- infantry_lvl2_desc:0 "Second step of our infantry"
+ punic_naval_supremacy:0 "Punic Naval Supremacy"
+ punic_naval_supremacy_title:0 "Punic Naval Supremacy"
+ punic_naval_supremacy_desc:0 ""
+ cultural_renaissance:0 "Cultural Renaissance"
+ cultural_renaissance_title:0 "Cultural Renaissance"
+ cultural_renaissance_desc:0 ""
 
- infantry_lvl3:0 "Infantry Level 3"
- infantry_lvl3_title:0 "Infantry Level 3"
- infantry_lvl3_desc:0 "Final step of our infantry"
 
- cavalry_lvl1:0 "Cavalry Level 1"
- cavalry_lvl1_title:0 "Cavalry Level 1"
- cavalry_lvl1_desc:0 "First step of our infantry"
+ canaanite:0 "Canaanite"
 
- cavalry_lvl2:0 "Cavalry Level 2"
- cavalry_lvl2_title:0 "Cavalry Level 2"
- cavalry_lvl2_desc:0 "Second step of our infantry"
-
- cavalry_lvl3:0 "Cavalry Level 3"
- cavalry_lvl3_title:0 "Cavalry Level 3"
- cavalry_lvl3_desc:0 "Final step of our infantry"
-
- artillery_lvl1:0 "Artillery Level 1"
- artillery_lvl1_title:0 "Artillery Level 1"
- artillery_lvl1_desc:0 "First step of our artillery"
-
- artillery_lvl2:0 "Artillery Level 2"
- artillery_lvl2_title:0 "Artillery Level 2"
- artillery_lvl2_desc:0 "Second step of our artillery"
-
- artillery_lvl3:0 "Artillery Level 3"
- artillery_lvl3_title:0 "Artillery Level 3"
- artillery_lvl3_desc:0 "Final step of our artillery"
 
 
   

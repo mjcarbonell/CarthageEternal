@@ -24,5 +24,9 @@ spriteTypes = {
 		name = "carthage_mission_4"
 		texturefile = "gfx//interface//missions//carthage_mission_4.dds"
 	}
+	spriteType = {
+		name = "carthage_mission_5"
+		texturefile = "gfx//interface//missions//carthage_mission_5.dds"
+	}
 
 }

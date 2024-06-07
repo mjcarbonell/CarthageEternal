@@ -54,6 +54,27 @@ carthage_first_slot = {
 			}
 		}
 	}
+	carthage_mission_6 = { # Third mission. Rebirth of Hannibal   
+		icon = carthage_mission_6
+		required_missions = { carthage_mission_2 }
+		position = 2
+		trigger = {
+			army_size_percentage = 0.9
+			num_of_cavalry = TUR
+
+		}
+		effect = {
+			vassalize = BYZ
+			341 = {
+				add_unit_construction = {
+					type = heavy_ship
+					amount = 5
+					speed = 0.1
+					cost = 0
+				}
+			}
+		}
+	}
 }
 
 # SECOND SLOT 

@@ -1,0 +1,124 @@
+# Do not change tags in here without changing every other reference to them.
+# Do not change tags in here without changing every other reference to them.
+# If adding new groups or ideas, make sure they are unique.
+
+# This one is the first for the case that some country manages to become fully Phillipine
+
+### Nation specific idea groups
+
+CAE_ideas = {
+	start = {
+		naval_maintenance_modifier = -0.15 
+		trade_steering = 0.1 
+	}
+
+	bonus = {
+		global_ship_trade_power = 0.33
+	}
+	
+	trigger = {
+		tag = CAE
+	}
+	free = yes		#will be added at load.
+	
+	merchant_republic_heritage = {
+		global_trade_power = 0.15   
+	}
+	circumnavigate_africa  = {
+		colonist_placement_chance = 0.2
+	}
+	military_colonies = {
+		global_manpower_modifier = 0.15       
+	}
+	mercenary_tradition  = {
+		mercenary_cost = -0.15                
+	}
+	sacred_band  = {
+		discipline = 0.05                     
+	}
+	cothon_harbor   = {
+		dockyard_cost = -0.2                 
+		ship_durability = 0.05
+	}
+	child_sacrifice_rituals  = {
+		stability_cost_modifier = -0.1         
+	}
+}
+NEM_ideas = {
+	start = {
+		cavalry_cost = -0.2
+		land_attrition = -0.15
+	}
+	bonus = {
+		manpower_recovery_speed = 0.2
+	}
+	trigger = {
+		tag = NEM
+	}
+	free = yes		# Will be added at load.
+	numidian_horsemasters = {
+		cavalry_power = 0.3
+	}
+	tribal_senate = {
+		monthly_reform_progress_modifier = 0.2
+	}
+	desert_survival = {
+		hostile_attrition = 1
+	}
+	riders_of_the_ridge = {
+		reinforce_speed = 0.25
+	}
+	berber_raiding_parties = {
+		looting_speed = 0.5
+		land_morale = 0.15
+	}
+	council_of_chiefs = {
+		advisor_cost = -0.1
+		governing_capacity_modifier = 0.1
+	}
+	oath_of_massinissa = {
+		discipline = 0.05
+	}
+}
+MGG_ideas = {
+	start = {
+		trade_efficiency = 0.15
+		naval_forcelimit_modifier = 0.25
+	}
+	bonus = {
+		global_manpower_modifier = 0.2
+	}
+	trigger = {
+		tag = MGG
+	}
+	free = yes		# Will be added at load.
+
+	hellenic_colonies = {
+		global_trade_power = 0.15
+		settler_increase = 10
+	}
+	league_of_city_states = {
+		diplomatic_reputation = 1
+		ae_impact = -0.1
+	}
+	taras_naval_dominance = {
+		naval_morale = 0.2
+		ship_durability = 0.05
+	}
+	pythagorean_schools = {
+		technology_cost = -0.05
+		idea_cost = -0.05
+	}
+	temples_of_apollo = {
+		tolerance_own = 2
+		stability_cost_modifier = -0.1
+	}
+	mercenary_brokers = {
+		mercenary_cost = -0.15
+		merc_maintenance_modifier = -0.1
+	}
+	italian_phalanx = {
+		infantry_power = 0.1
+		land_morale = 0.15
+	}
+}

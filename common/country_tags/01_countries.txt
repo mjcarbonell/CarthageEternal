@@ -1,0 +1,5 @@
+CAE	= "countries/Carthage.txt"
+NEM = "countries/Numidia.txt"
+MGG = "countries/Magna Graecia.txt"
+#ROM = "countries/RomanEmpire.txt"
+CEE = "countries/Celts.txt"

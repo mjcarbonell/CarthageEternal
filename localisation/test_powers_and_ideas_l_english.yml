@@ -1,0 +1,33 @@
+﻿l_english:
+ CAE_ideas:0 "Carthaginian Ideas"
+ CAE_ideas_start:0 "Carthaginian Traditions"
+ CAE_ideas_bonus:0 "Carthaginian Ambition"
+ merchant_republic_heritage:0 "Merchant Republic Heritage" 
+ circumnavigate_africa:0 "Cirumnavigate Africa"
+ military_colonies:0 "Military Colonies"
+ mercenary_tradition:0 "Mercenary Traditions"
+ sacred_band:0 "Sacred Band"
+ cothon_harbor:0 "Cothon Harbor"
+ child_sacrifice_rituals:0 "Child Sacrifice Rituals"
+
+
+ NEM_ideas:0 "Numidian Ideas"
+ NEM_ideas_start:0 "Numidian Traditions"
+ NEM_ideas_bonus:0 "Numidian Ambition"
+ numidian_horsemasters:0 "Numidian Horsemasters" 
+ tribal_senate:0 "Tribal Senate"
+ desert_survival:0 "Desert Survival"
+ riders_of_the_ridge:0 "Riders of the Fog"
+ berber_raiding_parties:0 "Berber Raiding Parties"
+ council_of_chiefs:0 "Council of Chiefs"
+ oath_of_massinissa:0 "Oath of Massinissa"
+# government reforms 
+ maxim_autocracy_reform:0 "Maxim Feudalism"
+ maxim_autocracy_reform_desc:0 "MAXIM IN THE French court affairs."
+# government mechanics
+maxim_militarization_mechanic:0 "Maxim Militarization"
+maxim_militarized_society:0 "Maxim Militarized Society"
+
+ability_maxim_militarization_mechanic:0 "Early Maxim Militarization"
+
+ 

@@ -1,0 +1,44 @@
+government = monarchy
+add_government_reform = barbary_sultanate_reform
+primary_culture = tunisian
+religion = anglican
+technology_group = western
+capital = 340	
+fixed_capital = 340 # Cannot move capital away from this province & no power cost to move to it
+
+change_estate_land_share = {
+	estate = estate_nobles
+	share = 10
+}
+change_estate_land_share = {
+	estate = estate_church
+	share = -20
+}
+change_estate_land_share = {
+	estate = estate_burghers
+	share = 10
+}
+
+1435.9.18 = {
+	monarch = {
+		name = "'some"
+		dynasty = "dude"
+		adm = 1
+		dip = 3
+		mil = 3
+	}
+}
+
+1435.9.18 = {
+	heir = {
+		name = "Yahyâ"
+		monarch_name = "Yahyâ III"
+		dynasty = "Hafsid"
+		birth_date = 1435.9.18
+		death_date = 1489.1.1
+		claim = 95
+		adm = 2
+		dip = 0
+		mil = 1
+	}
+}

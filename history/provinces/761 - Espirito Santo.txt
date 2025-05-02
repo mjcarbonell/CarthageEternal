@@ -1,0 +1,14 @@
+#761 - Espirito Santo
+
+#owner =  TUA
+#controller =TUA
+#add_core = TUA
+culture = ge
+
+discovered_by = western
+
+discovered_by = eastern
+
+discovered_by = muslim
+
+discovered_by = ottoman

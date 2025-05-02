@@ -1,0 +1,22 @@
+#656 - Manila
+
+culture = filipino
+religion = animism #Mixed with Islam
+capital = "Manila"
+trade_goods = chinaware #Imported via Tondo, exported to the Archipelago from Manila.
+hre = no
+base_tax = 5
+base_production = 5
+base_manpower = 2
+is_city = yes
+#owner =  MNA
+#controller =MNA
+#add_core = MNA
+
+discovered_by = western
+
+discovered_by = eastern
+
+discovered_by = muslim
+
+discovered_by = ottoman

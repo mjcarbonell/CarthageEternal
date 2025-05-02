@@ -1,7 +1,7 @@
 # - El Kef
 
-owner = CAE
-controller = CAE 
+owner =  CAE
+controller =CAE 
 culture = tunisian
 religion = sunni
 capital = "El Kef"
@@ -20,28 +20,10 @@ discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
+discovered_by = western
 
+discovered_by = eastern
 
-1534.8.16 = {
-	owner = ALG
-	controller = ALG
-	add_core = ALG
-} #Conquered by Barbarossa
-1535.6.11 = {
-	owner = CAE
-	controller = CAE
-	remove_core = ALG
-} #Spain reinstate Hafsids
-1574.1.1 = {
-	owner = ALG
-	controller = ALG
-	add_core = ALG
-} #End of the Hafsids, and of Spanish influence
-1593.1.1 = {
-	owner = CAE
-	controller = CAE
-	remove_core = ALG
-}#Tunisian Pashalik created
-1637.1.1 = {
-	fort_15th = yes
-}
+discovered_by = muslim
+
+discovered_by = ottoman

@@ -1,0 +1,21 @@
+#1183 - Inhambane
+
+culture = nguni
+religion = shamanism #Fetishism
+capital = "Inhambane"
+trade_goods = unknown
+hre = no
+base_tax = 4 
+base_production = 4
+base_manpower = 1
+native_size = 30
+native_ferocity = 4
+native_hostileness = 9
+
+discovered_by = western
+
+discovered_by = eastern
+
+discovered_by = muslim
+
+discovered_by = ottoman

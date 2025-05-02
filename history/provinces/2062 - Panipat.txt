@@ -1,0 +1,25 @@
+#2062 - Panipat
+
+#owner =  MUL
+#controller =MUL
+culture = kanauji
+religion = hinduism
+capital = "Panipat"
+trade_goods = cotton
+hre = no
+base_tax = 5 
+base_production = 5
+base_manpower = 3
+is_city = yes
+#add_core = DLH
+#add_core = SRH
+#add_core = MUL
+add_jains_or_burghers_effect = yes
+
+discovered_by = western
+
+discovered_by = eastern
+
+discovered_by = muslim
+
+discovered_by = ottoman

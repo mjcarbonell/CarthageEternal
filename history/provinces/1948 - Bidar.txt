@@ -1,0 +1,23 @@
+#1948 - Bidar
+
+##owner =  BAH
+##controller =BAH
+culture = kannada
+religion = hinduism
+capital = "Bidar"
+trade_goods = silk
+hre = no
+base_tax = 5
+base_production = 5
+base_manpower = 3
+is_city = yes
+#add_core = BAH
+fort_15th = yes #Bidar Fort
+
+discovered_by = western
+
+discovered_by = eastern
+
+discovered_by = muslim
+
+discovered_by = ottoman

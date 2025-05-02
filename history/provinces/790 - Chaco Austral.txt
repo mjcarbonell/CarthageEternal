@@ -1,0 +1,11 @@
+#790 - Chaco Austral
+
+culture = chacoan
+
+discovered_by = western
+
+discovered_by = eastern
+
+discovered_by = muslim
+
+discovered_by = ottoman

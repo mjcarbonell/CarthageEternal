@@ -1,0 +1,23 @@
+#2773 - Mora
+
+#owner =  ADA
+#controller =ADA
+#add_core = ADA
+#add_core = HAR
+culture = harari
+religion = sunni
+capital = "Ali Sabieh"
+is_city = yes
+base_manpower = 1
+trade_goods = coffee
+hre = no
+base_tax = 1 
+base_production = 1
+
+discovered_by = western
+
+discovered_by = eastern
+
+discovered_by = muslim
+
+discovered_by = ottoman

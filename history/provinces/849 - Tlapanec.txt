@@ -1,0 +1,22 @@
+#849 - Tlapanec
+
+#owner =  TLA
+#controller =TLA
+culture = tlapanec
+religion = nahuatl
+capital = "Acapulco"
+trade_goods = gold
+hre = no
+base_tax = 4 
+base_production = 4
+base_manpower = 1
+is_city = yes
+#add_core = TLA
+
+discovered_by = western
+
+discovered_by = eastern
+
+discovered_by = muslim
+
+discovered_by = ottoman

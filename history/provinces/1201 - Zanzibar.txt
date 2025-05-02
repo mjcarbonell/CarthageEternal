@@ -1,0 +1,22 @@
+#1201 - Zanzibar
+
+##owner =  ZAN
+##controller =ZAN
+#add_core = ZAN
+culture = swahili
+religion = ibadi
+capital = "Zanzibar"
+is_city = yes
+base_manpower = 1
+trade_goods = slaves
+hre = no
+base_tax = 2 
+base_production = 2
+
+discovered_by = western
+
+discovered_by = eastern
+
+discovered_by = muslim
+
+discovered_by = ottoman

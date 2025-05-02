@@ -1,0 +1,23 @@
+#466 - Sarai
+
+#owner =  GOL
+#controller =GOL
+culture = astrakhani
+religion = sunni
+capital = "Sarai"
+trade_goods = wool
+hre = no
+base_tax = 6 
+base_production = 6
+base_manpower = 5
+is_city = yes
+#add_core = GOL
+#add_core = AST
+
+discovered_by = western
+
+discovered_by = eastern
+
+discovered_by = muslim
+
+discovered_by = ottoman

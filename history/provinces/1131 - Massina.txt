@@ -1,0 +1,25 @@
+#1131 - Massina
+
+##owner =  JNN
+##controller =JNN
+culture = bambara
+is_city = yes
+base_manpower = 1
+religion = shamanism #Fetishism
+capital = "Macina"
+trade_goods = grain
+hre = no
+base_tax = 4 
+base_production = 4
+native_ferocity = 4
+native_hostileness = 9
+#add_core = JNN
+#add_core = SOF
+
+discovered_by = western
+
+discovered_by = eastern
+
+discovered_by = muslim
+
+discovered_by = ottoman

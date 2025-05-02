@@ -1,0 +1,22 @@
+#731 - Ilan Hala
+
+#owner =  EJZ
+#controller =EJZ
+#add_core = EJZ
+culture = manchu
+religion = tengri_pagan_reformed
+capital = "Ilan Hala"
+trade_goods = naval_supplies
+hre = no
+base_tax = 3 
+base_production = 3
+base_manpower = 2
+is_city = yes
+
+discovered_by = western
+
+discovered_by = eastern
+
+discovered_by = muslim
+
+discovered_by = ottoman

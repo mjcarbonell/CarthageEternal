@@ -1,0 +1,10 @@
+#Unpassable mountains in The Caucasus.
+
+
+discovered_by = western
+
+discovered_by = eastern
+
+discovered_by = muslim
+
+discovered_by = ottomandiscovered_by = nomad_group

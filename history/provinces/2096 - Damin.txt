@@ -1,0 +1,24 @@
+#2096 - Damin
+
+#owner =  BNG
+#controller =BNG
+culture = jharkhandi
+religion = hinduism
+capital = "Deogarh"
+trade_goods = ivory
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+is_city = yes
+#add_core = NGP
+#add_core = BNG
+add_brahmins_or_church_effect = yes
+
+discovered_by = western
+
+discovered_by = eastern
+
+discovered_by = muslim
+
+discovered_by = ottoman

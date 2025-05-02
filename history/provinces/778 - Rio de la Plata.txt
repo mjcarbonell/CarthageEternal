@@ -1,0 +1,14 @@
+#778 - Rio de la Plata
+
+#owner =  CUA
+#controller =CUA
+#add_core = CUA
+culture = charruan
+
+discovered_by = western
+
+discovered_by = eastern
+
+discovered_by = muslim
+
+discovered_by = ottoman

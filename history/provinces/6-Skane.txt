@@ -1,0 +1,28 @@
+#Sk�ne
+
+#add_core = DAN
+#owner =  DAN
+#controller =DAN
+culture = danish
+religion = catholic
+hre = no
+base_tax = 7
+base_production = 7
+#trade_goods = grain
+trade_goods = fish #The Great Herring Market of Sk�ne
+base_manpower = 6
+capital = "Lund"
+is_city = yes
+add_permanent_province_modifier = {
+	name = skanemarket
+	duration = -1
+} 
+fort_15th = yes 
+
+discovered_by = western
+
+discovered_by = eastern
+
+discovered_by = muslim
+
+discovered_by = ottoman

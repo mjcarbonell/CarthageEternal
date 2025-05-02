@@ -1,0 +1,23 @@
+#532 - Raichur Doab
+
+#owner =  VIJ
+#controller =VIJ
+culture = kannada
+religion = hinduism
+capital = "Raichur"
+trade_goods = cloth
+hre = no
+base_tax = 5
+base_production = 5
+base_manpower = 3
+is_city = yes
+#add_core = BIJ
+#add_core = VIJ
+
+discovered_by = western
+
+discovered_by = eastern
+
+discovered_by = muslim
+
+discovered_by = ottoman

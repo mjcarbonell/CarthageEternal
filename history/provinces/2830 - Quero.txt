@@ -1,0 +1,25 @@
+# - Quero
+
+#owner =  CSU
+#controller =CSU
+culture = inca
+religion = inti
+capital = "Quero"
+trade_goods = wool
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+is_city = yes
+#add_core = CSU
+
+
+
+
+discovered_by = western
+
+discovered_by = eastern
+
+discovered_by = muslim
+
+discovered_by = ottoman

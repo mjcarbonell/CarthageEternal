@@ -1,0 +1,22 @@
+#403 - Nizwa
+
+#owner =  OMA
+#controller =OMA
+culture = omani_culture
+religion = ibadi
+capital = "Nizwa"
+trade_goods = wool
+hre = no
+base_tax = 3 
+base_production = 3
+base_manpower = 3
+is_city = yes
+#add_core = OMA
+
+discovered_by = western
+
+discovered_by = eastern
+
+discovered_by = muslim
+
+discovered_by = ottoman1480.1.1 = { discovered_by = TUR }

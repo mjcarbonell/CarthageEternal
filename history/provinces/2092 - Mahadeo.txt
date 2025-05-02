@@ -1,0 +1,26 @@
+#2092 - Mahadeo
+
+#owner =  GDW
+#controller =GDW
+culture = gondi
+religion = hinduism
+capital = "Kherla"
+trade_goods = tropical_wood
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+is_city = yes
+#add_core = GDW
+add_local_autonomy = 50
+
+
+
+
+discovered_by = western
+
+discovered_by = eastern
+
+discovered_by = muslim
+
+discovered_by = ottoman

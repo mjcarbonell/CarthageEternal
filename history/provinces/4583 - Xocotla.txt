@@ -1,0 +1,22 @@
+# No previous file for Xocotla
+
+#owner =  TLX
+#controller =TLX
+culture = aztek
+religion = nahuatl
+capital = "Xocotla"
+trade_goods = sugar
+hre = no 
+base_tax = 4 
+base_production = 4
+base_manpower = 1
+is_city = yes
+#add_core = TLX
+
+discovered_by = western
+
+discovered_by = eastern
+
+discovered_by = muslim
+
+discovered_by = ottoman1812.8.10 = { #controller =MEX } # Conquered by Jos� Mar�a Morelos

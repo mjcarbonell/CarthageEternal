@@ -1,0 +1,22 @@
+#229 - Baixo Alentejo
+
+#owner =  POR
+#controller =POR
+culture = portugese
+religion = catholic
+capital = "Beja"
+trade_goods = livestock
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 3
+is_city = yes
+#add_core = POR
+
+discovered_by = western
+
+discovered_by = eastern
+
+discovered_by = muslim
+
+discovered_by = ottoman

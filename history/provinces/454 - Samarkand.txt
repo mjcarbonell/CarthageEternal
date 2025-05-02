@@ -1,0 +1,23 @@
+#454 - Samarkand
+
+#owner =  TIM
+#controller =TIM
+culture = uzbehk
+religion = sunni
+capital = "Samarkand"
+trade_goods = paper
+hre = no
+base_tax = 7 
+base_production = 7
+base_manpower = 7
+is_city = yes
+#add_core = TIM
+#add_core = TRS
+
+discovered_by = western
+
+discovered_by = eastern
+
+discovered_by = muslim
+
+discovered_by = ottoman

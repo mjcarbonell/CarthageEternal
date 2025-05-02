@@ -1,8 +1,8 @@
 #236 - London
 #Middlesex+Hertfordshire+Surrey+parts of Kent and Essex
 
-owner = CEE
-controller = CEE
+owner =  CEE
+controller =CEE
 culture = english
 religion = catholic
 hre = no
@@ -15,9 +15,11 @@ is_city = yes
 add_core = CEE 
 seat_in_parliament = yes
 fort_15th = yes
+
 discovered_by = western
-discovered_by = muslim
-discovered_by = ottoman
+
 discovered_by = eastern
-extra_cost = 26
-center_of_trade = 2
+
+discovered_by = muslim
+
+discovered_by = ottoman

@@ -1,7 +1,7 @@
 #340 - Constantine
 
-owner = CAE
-controller = CAE 
+owner =  CAE
+controller =CAE 
 culture = berber
 religion = sunni
 capital = "Annaba"
@@ -19,10 +19,10 @@ discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
+discovered_by = western
 
+discovered_by = eastern
 
-1522.1.1 = {
-	owner = ALG
-	controller = ALG
-	add_core = ALG
-}
+discovered_by = muslim
+
+discovered_by = ottoman

@@ -1,0 +1,25 @@
+# 2109 - Boduna
+
+#owner =  KRC
+#controller =KRC
+#add_core = KRC
+culture = chahar
+religion = vajrayana
+capital = "Boduna"
+trade_goods = iron
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 3
+is_city = yes
+
+
+
+
+discovered_by = western
+
+discovered_by = eastern
+
+discovered_by = muslim
+
+discovered_by = ottoman1709.1.1 = { discovered_by = SPA }

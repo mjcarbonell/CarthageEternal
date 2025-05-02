@@ -1,0 +1,23 @@
+#1835 - Mino
+
+##owner =  TKI
+##controller =TKI
+culture = togoku
+religion = shinto
+capital = "Inabayama"
+trade_goods = paper
+hre = no
+base_tax = 4
+base_manpower = 3
+base_production = 4
+is_city = yes
+#add_core = TKI
+fort_15th = yes #Inabayama Castle
+
+discovered_by = western
+
+discovered_by = eastern
+
+discovered_by = muslim
+
+discovered_by = ottoman1600.10.21 = { ##owner =  TKG ##controller =TKG #add_core = TKG remove_core = ODA fort_15th = no } # Gifu Castle was taken down

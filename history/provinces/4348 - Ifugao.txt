@@ -1,0 +1,21 @@
+#4348 - Ifugao
+
+culture = filipino
+religion = animism
+capital = "Ifugao"
+trade_goods = unknown
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+native_size = 50
+native_ferocity = 1
+native_hostileness = 3
+
+discovered_by = western
+
+discovered_by = eastern
+
+discovered_by = muslim
+
+discovered_by = ottoman

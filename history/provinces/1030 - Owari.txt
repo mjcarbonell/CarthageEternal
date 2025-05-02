@@ -1,0 +1,23 @@
+#1030 - Owari
+
+##owner =  ODA
+##controller =ODA
+culture = togoku
+religion = shinto
+capital = "Kiyosu"
+trade_goods = dyes
+hre = no
+base_tax = 4 
+base_production = 4
+base_manpower = 2
+is_city = yes
+#add_core = ODA
+#add_core = SBA
+
+discovered_by = western
+
+discovered_by = eastern
+
+discovered_by = muslim
+
+discovered_by = ottoman1600.9.13 = { ##owner =  TKG ##controller =TKG #add_core = TKG remove_core = ODA }

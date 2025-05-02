@@ -1,0 +1,25 @@
+# No previous file for Cutzamala
+
+culture = matlatzinca
+#owner =  MAT
+#controller =MAT
+#add_core = MAT
+is_city = yes
+religion = nahuatl
+capital = "Cutzamala"
+trade_goods = sugar
+hre = no
+base_tax = 3 
+base_production = 3
+base_manpower = 1
+native_size = 5
+native_ferocity = 1
+native_hostileness = 2
+
+discovered_by = western
+
+discovered_by = eastern
+
+discovered_by = muslim
+
+discovered_by = ottoman

@@ -1,0 +1,22 @@
+#2054 - Ahmadabad
+
+#owner =  GUJ
+#controller =GUJ
+culture = gujarati
+religion = hinduism
+capital = "Ahmadabad"
+trade_goods = paper
+hre = no
+base_tax = 5 
+base_production = 5
+base_manpower = 1
+is_city = yes
+#add_core = GUJ
+
+discovered_by = western
+
+discovered_by = eastern
+
+discovered_by = muslim
+
+discovered_by = ottoman

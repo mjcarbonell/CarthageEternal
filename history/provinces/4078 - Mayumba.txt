@@ -1,0 +1,20 @@
+#owner =  LOA
+#controller =LOA
+#add_core = LOA
+culture = kongolese
+religion = shamanism #Fetishism
+capital = "Mayumba"
+trade_goods = ivory
+hre = no
+base_tax = 2
+base_production = 1
+base_manpower = 2
+is_city = yes
+
+discovered_by = western
+
+discovered_by = eastern
+
+discovered_by = muslim
+
+discovered_by = ottoman1481.1.1 = { discovered_by = POR } # Bartolomeu Dias

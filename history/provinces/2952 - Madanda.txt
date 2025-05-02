@@ -1,0 +1,22 @@
+# - Madanda
+
+#owner =  ZIM
+#controller =ZIM
+#add_core = ZIM
+culture = shona
+religion = shamanism
+capital = "Madanda"
+is_city = yes
+base_manpower = 1
+trade_goods = ivory
+hre = no
+base_tax = 1 
+base_production = 1
+
+discovered_by = western
+
+discovered_by = eastern
+
+discovered_by = muslim
+
+discovered_by = ottoman

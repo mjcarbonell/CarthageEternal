@@ -1,0 +1,26 @@
+# 2369 - Upper Ishim, formerly Lower Ishim
+
+#owner =  SHY
+#controller =SHY
+culture = khazak
+religion = sunni
+capital = "Zhanibek"
+trade_goods = iron
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+is_city = yes
+#add_core = KZH
+#add_core = SHY
+
+
+
+
+discovered_by = western
+
+discovered_by = eastern
+
+discovered_by = muslim
+
+discovered_by = ottoman

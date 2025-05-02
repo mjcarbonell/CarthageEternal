@@ -1,7 +1,7 @@
 #121 - Napoli
 
-owner = ROM
-controller = ROM
+owner =  ROM
+controller =ROM
 culture = neapolitan 
 religion = catholic 
 hre = no 
@@ -12,10 +12,16 @@ base_manpower = 6
 capital = "Napoli" 
 is_city = yes	# Estimated
 fort_15th = yes
-add_core = ROM
+center_of_trade = 2
+
 discovered_by = western
 discovered_by = eastern
 discovered_by = muslim
 discovered_by = ottoman
-extra_cost = 16
-center_of_trade = 2
+discovered_by = western
+
+discovered_by = eastern
+
+discovered_by = muslim
+
+discovered_by = ottoman

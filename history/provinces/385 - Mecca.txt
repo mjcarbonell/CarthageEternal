@@ -1,0 +1,23 @@
+#385 - Mecca
+
+#owner =  HED
+#controller =HED
+culture = hejazi_culture
+religion = sunni
+capital = "Makkah"
+trade_goods = incense
+hre = no
+base_tax = 4 
+base_production = 4
+base_manpower = 4
+is_city = yes
+#add_core = HED
+extra_cost = 10
+
+discovered_by = western
+
+discovered_by = eastern
+
+discovered_by = muslim
+
+discovered_by = ottoman

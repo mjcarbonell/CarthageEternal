@@ -1,0 +1,23 @@
+#390 - Sana'a
+
+#owner =  RAS
+#controller =RAS
+culture = yemeni_culture
+religion = shiite
+capital = "Sana'a"
+trade_goods = wool
+hre = no
+base_tax = 4 
+base_production = 3
+base_manpower = 4
+is_city = yes
+#add_core = RAS
+#add_core = YEM
+
+discovered_by = western
+
+discovered_by = eastern
+
+discovered_by = muslim
+
+discovered_by = ottoman}

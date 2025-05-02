@@ -1,0 +1,22 @@
+#2380 - Phnom Penh
+
+#owner =  KHM
+#controller =KHM
+culture = khmer
+religion = buddhism
+capital = "Chaktomuk"
+trade_goods = iron
+hre = no
+base_tax = 5
+base_production = 5
+base_manpower = 3
+is_city = yes
+#add_core = KHM
+
+discovered_by = western
+
+discovered_by = eastern
+
+discovered_by = muslim
+
+discovered_by = ottoman

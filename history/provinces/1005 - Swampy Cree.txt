@@ -1,0 +1,21 @@
+#1005 - Swampy Cree
+
+culture = cree
+religion = totemism
+capital = "Swampy Cree"
+trade_goods = unknown
+hre = no
+base_tax = 1 
+base_production = 2
+base_manpower = 1
+native_size = 5
+native_ferocity = 1
+native_hostileness = 6
+
+discovered_by = western
+
+discovered_by = eastern
+
+discovered_by = muslim
+
+discovered_by = ottoman

@@ -1,0 +1,24 @@
+#owner =  OIR
+#controller =OIR
+#add_core = OIR
+culture = oirats
+religion = tengri_pagan_reformed
+capital = "Altay"
+trade_goods = livestock
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 2
+is_city = yes
+#add_core = CHG
+
+
+
+
+discovered_by = western
+
+discovered_by = eastern
+
+discovered_by = muslim
+
+discovered_by = ottoman

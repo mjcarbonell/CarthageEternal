@@ -1,0 +1,25 @@
+# - Ayaviri
+
+#owner =  CSU
+#controller =CSU
+#add_core = CSU
+culture = aimara
+religion = inti
+capital = "Ayaviri"
+is_city = yes
+trade_goods = wool
+hre = no
+base_tax = 3 
+base_production = 3
+base_manpower = 2
+
+
+
+
+discovered_by = western
+
+discovered_by = eastern
+
+discovered_by = muslim
+
+discovered_by = ottoman

@@ -1,0 +1,23 @@
+#276 - Minsk
+
+#owner =  LIT
+#controller =LIT  
+culture = byelorussian
+religion = orthodox
+hre = no
+base_tax = 3
+base_production = 3
+trade_goods = naval_supplies 
+base_manpower = 1
+capital = "Minsk"
+is_city = yes
+#add_core = LIT
+#fort_15th = yes
+
+discovered_by = western
+
+discovered_by = eastern
+
+discovered_by = muslim
+
+discovered_by = ottoman

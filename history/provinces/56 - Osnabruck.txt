@@ -1,0 +1,26 @@
+#56 - Osnabr�ck
+
+#owner =  MUN
+#controller =MUN
+culture = hannoverian
+religion = catholic
+capital = "Osnabr�ck"
+trade_goods = salt
+hre = yes
+base_tax = 3
+base_production = 4
+base_manpower = 2
+is_city = yes
+#add_core = MUN
+#add_core = OSN
+
+
+
+
+discovered_by = western
+
+discovered_by = eastern
+
+discovered_by = muslim
+
+discovered_by = ottoman

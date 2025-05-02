@@ -1,0 +1,28 @@
+#2440 - Kagyrgyn
+
+#owner =  CHV
+#controller =CHV
+#add_core = CHV
+culture = kamchatkan
+religion = tengri_pagan_reformed
+capital = "Kagyrgyn"
+trade_goods = fish
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+native_size = 5
+native_ferocity = 1
+native_hostileness = 2
+is_city = yes
+
+
+
+
+discovered_by = western
+
+discovered_by = eastern
+
+discovered_by = muslim
+
+discovered_by = ottoman

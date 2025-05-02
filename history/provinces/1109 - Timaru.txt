@@ -1,0 +1,19 @@
+#1109 - Timaru
+
+
+culture = maori
+religion = animism
+hre = no
+capital = "Kaiapoi"
+trade_goods = naval_supplies
+base_tax = 1
+base_production = 1
+base_manpower = 1
+
+discovered_by = western
+
+discovered_by = eastern
+
+discovered_by = muslim
+
+discovered_by = ottoman1642.1.1 = { discovered_by = NED } # Abel Tasman

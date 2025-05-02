@@ -1,0 +1,22 @@
+# 2111 - Hetu Ala
+
+#owner =  MJZ
+#controller =MJZ
+#add_core = MJZ
+culture = manchu
+religion = confucianism
+capital = "Hetu Ala"
+trade_goods = iron
+hre = no
+base_tax = 4 
+base_production = 4
+base_manpower = 5
+is_city = yes
+
+discovered_by = western
+
+discovered_by = eastern
+
+discovered_by = muslim
+
+discovered_by = ottoman1709.1.1 = { discovered_by = SPA }

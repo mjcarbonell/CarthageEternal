@@ -1,0 +1,28 @@
+#941 - Cumberland
+
+#owner =  CCA
+#controller =CCA
+#add_core = CCA
+is_city = yes
+culture = yuchi
+religion = totemism
+capital = "Ouasioto"
+trade_goods = fur
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+native_size = 5
+native_ferocity = 1
+native_hostileness = 6
+
+
+
+
+discovered_by = western
+
+discovered_by = eastern
+
+discovered_by = muslim
+
+discovered_by = ottoman1779.1.1 = { capital = "Jonesboro" }

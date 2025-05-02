@@ -1,0 +1,14 @@
+
+
+
+
+discovered_by = south_american
+1500.1.26 = { discovered_by = CAS } # Vicente Y��ez Pinz�n
+
+discovered_by = western
+
+discovered_by = eastern
+
+discovered_by = muslim
+
+discovered_by = ottoman

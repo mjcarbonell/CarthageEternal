@@ -1,0 +1,23 @@
+#265 - Brno
+
+#owner =  BOH
+#controller =BOH
+capital = "Brno"
+culture = czech
+religion = hussite
+trade_goods = wine 
+hre = yes
+base_tax = 3
+base_production = 3
+base_manpower = 2
+#is_city = yes
+#add_core = BOH
+#add_core = MVA
+
+discovered_by = western
+
+discovered_by = eastern
+
+discovered_by = muslim
+
+discovered_by = ottoman

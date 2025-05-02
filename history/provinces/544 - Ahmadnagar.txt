@@ -1,0 +1,23 @@
+#544 - Ahmednagar
+
+#owner =  BAH
+#controller =BAH
+culture = marathi
+religion = hinduism
+capital = "Ahmednagar"
+trade_goods = cotton
+hre = no
+base_tax = 4
+base_production = 4
+base_manpower = 1
+is_city = yes
+#add_core = BAH
+#add_core = AHM
+
+discovered_by = western
+
+discovered_by = eastern
+
+discovered_by = muslim
+
+discovered_by = ottoman

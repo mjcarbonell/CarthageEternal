@@ -1,0 +1,24 @@
+#416 - Azerbaijan
+
+#owner =  QAR
+#controller =QAR
+culture = azerbaijani
+religion = shiite
+capital = "Tabriz"
+trade_goods = silk
+hre = no
+base_tax = 7
+base_production = 7
+base_manpower = 3
+is_city = yes
+#add_core = QAR
+#add_core = TBR
+fort_15th = yes
+
+discovered_by = western
+
+discovered_by = eastern
+
+discovered_by = muslim
+
+discovered_by = ottoman}

@@ -1,0 +1,22 @@
+# 2126 - Chuy
+
+#owner =  CHG
+#controller =CHG
+#add_core = CHG
+culture = kirgiz
+religion = sunni
+capital = "Chuy"
+trade_goods = wool
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 2
+is_city = yes
+
+discovered_by = western
+
+discovered_by = eastern
+
+discovered_by = muslim
+
+discovered_by = ottoman}

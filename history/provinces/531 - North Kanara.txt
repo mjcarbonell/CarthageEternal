@@ -1,0 +1,22 @@
+#531 - North Kanara
+
+#owner =  VIJ
+#controller =VIJ
+culture = kannada
+religion = hinduism
+capital = "Bhatkal"
+trade_goods = spices
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 1
+is_city = yes
+#add_core = VIJ
+
+discovered_by = western
+
+discovered_by = eastern
+
+discovered_by = muslim
+
+discovered_by = ottoman

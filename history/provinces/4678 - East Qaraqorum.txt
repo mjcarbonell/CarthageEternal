@@ -1,0 +1,28 @@
+# 4678 - Qaraqorum
+
+#owner =  OIR
+#controller =OIR
+#add_core = OIR
+culture = khalkha
+religion = tengri_pagan_reformed
+capital = "Qaraqorum"
+trade_goods = cloth
+hre = no
+base_tax = 3 
+base_production = 3
+base_manpower = 3
+is_city = yes
+extra_cost = 8
+center_of_trade = 1
+
+add_province_triggered_modifier = mongol_kurultai
+
+
+
+discovered_by = western
+
+discovered_by = eastern
+
+discovered_by = muslim
+
+discovered_by = ottoman1709.1.1 = { discovered_by = SPA }

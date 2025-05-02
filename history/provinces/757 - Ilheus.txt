@@ -1,0 +1,14 @@
+#757 - Ilheus
+
+#owner =  TPQ
+#controller =TPQ
+#add_core = TPQ
+culture = tupinamba
+
+discovered_by = western
+
+discovered_by = eastern
+
+discovered_by = muslim
+
+discovered_by = ottoman

@@ -1,0 +1,22 @@
+#393 - Jabal Shammar
+
+#owner =  SHM
+#controller =SHM
+culture = bedouin_arabic
+religion = sunni
+capital = "Ha'il"
+trade_goods = grain
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+is_city = yes
+#add_core = SHM
+
+discovered_by = western
+
+discovered_by = eastern
+
+discovered_by = muslim
+
+discovered_by = ottoman

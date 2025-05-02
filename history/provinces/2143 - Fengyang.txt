@@ -1,0 +1,25 @@
+# 2143 - Fengyang
+
+#owner =  MNG
+#controller =MNG
+#add_core = MNG
+culture = zhongyuan
+religion = confucianism
+capital = "Fengyang"
+trade_goods = silk
+hre = no
+base_tax = 2 
+base_production = 1
+base_manpower = 1
+is_city = yes
+
+
+
+
+discovered_by = western
+
+discovered_by = eastern
+
+discovered_by = muslim
+
+discovered_by = ottoman}

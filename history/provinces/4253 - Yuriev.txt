@@ -1,0 +1,22 @@
+#4253 - Pereyaslavl-Zalesskiy & Yuriev-Polskiy
+
+#owner =  MOS
+#controller =MOS  
+culture = russian
+religion = orthodox
+hre = no
+base_tax = 3
+base_production = 3
+trade_goods = salt 
+base_manpower = 2
+capital = "Yuriev"
+is_city = yes
+#add_core = MOS
+
+discovered_by = western
+
+discovered_by = eastern
+
+discovered_by = muslim
+
+discovered_by = ottoman

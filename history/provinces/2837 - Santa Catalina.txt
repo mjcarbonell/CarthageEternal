@@ -1,0 +1,18 @@
+# - Santa Catalina
+
+#owner =  CCQ
+#controller =CCQ
+#add_core = CCQ
+is_city = yes
+culture = diaguita
+
+
+
+
+discovered_by = western
+
+discovered_by = eastern
+
+discovered_by = muslim
+
+discovered_by = ottoman

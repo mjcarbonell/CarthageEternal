@@ -1,0 +1,23 @@
+#1825 - Aki
+
+##owner =  HSK
+##controller =HSK
+culture = japanese
+religion = shinto
+capital = "Tomo"
+trade_goods = grain
+hre = no
+base_tax = 4
+base_manpower = 3
+base_production = 4
+is_city = yes
+#add_core = HSK
+#add_core = MRI
+
+discovered_by = western
+
+discovered_by = eastern
+
+discovered_by = muslim
+
+discovered_by = ottoman1600.10.21 = { ##owner =  TKG ##controller =TKG #add_core = TKG }

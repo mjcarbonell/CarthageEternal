@@ -1,0 +1,26 @@
+#540 - Coromandel 
+
+#owner =  VIJ
+#controller =VIJ
+culture = tamil
+religion = hinduism
+capital = "Kuddaluru"
+trade_goods = cloth
+hre = no
+base_tax = 4
+base_production = 4
+base_manpower = 3
+is_city = yes
+add_vaisyas_or_burghers_effect = yes
+#add_core = VIJ
+#add_core = MAD
+#add_core = GNG
+add_local_autonomy = 25
+
+discovered_by = western
+
+discovered_by = eastern
+
+discovered_by = muslim
+
+discovered_by = ottoman

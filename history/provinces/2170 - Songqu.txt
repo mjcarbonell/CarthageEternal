@@ -1,0 +1,23 @@
+# 2170 - Songqu
+
+#owner =  MNG
+#controller =MNG
+#add_core = MNG
+culture = tibetan
+religion = vajrayana
+capital = "Songqu"
+trade_goods = livestock
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+is_city = yes
+#add_core = CXI
+
+discovered_by = western
+
+discovered_by = eastern
+
+discovered_by = muslim
+
+discovered_by = ottoman1682.1.1 = { discovered_by = SPA } #Ferdinand Verbiest

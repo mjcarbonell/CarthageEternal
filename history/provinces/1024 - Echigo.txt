@@ -1,0 +1,25 @@
+#1024 - Echigo
+
+##owner =  UES
+##controller =UES
+culture = togoku
+religion = shinto
+capital = "Naoetsu"
+trade_goods = grain
+hre = no
+base_tax = 4 
+base_production = 4
+base_manpower = 3
+is_city = yes
+#add_core = UES
+
+
+
+
+discovered_by = western
+
+discovered_by = eastern
+
+discovered_by = muslim
+
+discovered_by = ottoman

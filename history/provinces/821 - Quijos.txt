@@ -1,0 +1,14 @@
+#821 - Quijos
+
+culture = jivaro
+
+
+
+
+discovered_by = western
+
+discovered_by = eastern
+
+discovered_by = muslim
+
+discovered_by = ottoman

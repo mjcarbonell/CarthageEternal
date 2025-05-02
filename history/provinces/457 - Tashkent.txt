@@ -1,0 +1,23 @@
+#457 - Tashkent
+
+#owner =  TIM
+#controller =TIM
+culture = uzbehk
+religion = sunni
+capital = "Tashkent"
+trade_goods = tea
+hre = no
+base_tax = 3 
+base_production = 3
+base_manpower = 3
+is_city = yes
+#add_core = TIM
+#add_core = TRS
+
+discovered_by = western
+
+discovered_by = eastern
+
+discovered_by = muslim
+
+discovered_by = ottoman

@@ -1,0 +1,24 @@
+#Dorpat
+
+##owner =  LIV
+##controller =LIV
+#add_core = LIV
+#add_core = LTG
+#add_core = EST
+culture = estonian
+religion = catholic
+hre = no
+base_tax = 3 
+base_production = 3
+trade_goods = naval_supplies
+base_manpower = 2
+capital = "Dorpat"
+is_city = yes
+
+discovered_by = western
+
+discovered_by = eastern
+
+discovered_by = muslim
+
+discovered_by = ottoman

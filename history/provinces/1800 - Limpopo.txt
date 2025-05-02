@@ -1,0 +1,21 @@
+#1800 - Limpopo
+
+culture = nguni
+religion = shamanism #Fetishism
+capital = "Gaza"
+trade_goods = unknown
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+native_size = 70
+native_ferocity = 4
+native_hostileness = 9 
+
+discovered_by = western
+
+discovered_by = eastern
+
+discovered_by = muslim
+
+discovered_by = ottoman

@@ -1,0 +1,21 @@
+#484 - Havana
+
+culture = arawak
+religion = animism
+capital = "Havana"
+trade_goods = unknown
+hre = no
+base_tax = 5
+base_production = 5
+base_manpower = 1
+native_size = 5
+native_ferocity = 1
+native_hostileness = 5
+
+discovered_by = western
+
+discovered_by = eastern
+
+discovered_by = muslim
+
+discovered_by = ottoman

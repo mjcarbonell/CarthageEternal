@@ -1,0 +1,14 @@
+#751 - Ceara
+
+#owner =  PTG
+#controller =PTG
+#add_core = PTG
+culture = tupinamba
+
+discovered_by = western
+
+discovered_by = eastern
+
+discovered_by = muslim
+
+discovered_by = ottoman

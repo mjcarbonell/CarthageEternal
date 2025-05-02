@@ -1,0 +1,23 @@
+#2305 - Erzincan
+
+#owner =  TIM
+#controller =TIM
+culture = armenian
+religion = coptic
+capital = "Erzindjan"
+trade_goods = copper
+hre = no
+base_tax = 3 
+base_production = 3
+base_manpower = 2
+is_city = yes
+#add_core = TIM
+#add_core = ERE
+
+discovered_by = western
+
+discovered_by = eastern
+
+discovered_by = muslim
+
+discovered_by = ottoman

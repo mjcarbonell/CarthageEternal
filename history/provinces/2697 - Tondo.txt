@@ -1,0 +1,22 @@
+#2697 - Tondo
+
+#owner =  TDO
+#controller =TDO
+#add_core = TDO
+culture = filipino
+religion = animism
+capital = "Tondo"
+trade_goods = spices
+hre = no
+base_tax = 5
+base_production = 5
+base_manpower = 2
+is_city = yes
+
+discovered_by = western
+
+discovered_by = eastern
+
+discovered_by = muslim
+
+discovered_by = ottoman

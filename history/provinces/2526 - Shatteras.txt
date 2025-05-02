@@ -1,0 +1,28 @@
+## No previous file for Shatteras
+
+#owner =  KSP
+#controller =KSP
+#add_core = KSP
+is_city = yes
+culture = shawnee
+religion = totemism
+capital = "Shatteras"
+trade_goods = fur
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+native_size = 5
+native_ferocity = 1
+native_hostileness = 2
+
+
+
+
+discovered_by = western
+
+discovered_by = eastern
+
+discovered_by = muslim
+
+discovered_by = ottoman1776.7.4 = { #owner =  USA #controller =USA #add_core = USA } #Then part of Virginia, one of the thirteen colonies.

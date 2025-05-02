@@ -1,0 +1,17 @@
+#795 - Potosi
+
+#owner =  CRA
+#controller =CRA
+#add_core = CRA
+culture = aimara
+
+
+
+
+discovered_by = western
+
+discovered_by = eastern
+
+discovered_by = muslim
+
+discovered_by = ottoman

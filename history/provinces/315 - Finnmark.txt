@@ -1,0 +1,24 @@
+#315 - Finnmark
+
+#owner =  NOR
+#controller =NOR
+#add_core = SMI
+culture = sapmi
+religion = catholic
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+trade_goods = fish
+capital = "Vard�"
+is_city = yes
+#add_core = NOR
+add_local_autonomy = 70
+
+discovered_by = western
+
+discovered_by = eastern
+
+discovered_by = muslim
+
+discovered_by = ottoman

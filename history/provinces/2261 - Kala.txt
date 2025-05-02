@@ -1,0 +1,28 @@
+# No previous file for Kala
+
+#owner =  JNN
+#controller =JNN
+#add_core = JNN
+is_city = yes
+culture = bozo 
+religion = shamanism #Fetishism
+capital = "Isaq"
+trade_goods = fish #river fisheries
+hre = no
+base_tax = 4 
+base_production = 4
+native_size = 40
+native_ferocity = 4
+native_hostileness = 9
+base_manpower = 1
+
+
+
+
+discovered_by = western
+
+discovered_by = eastern
+
+discovered_by = muslim
+
+discovered_by = ottoman} # The Massina Empire, recylcing the JNN tag

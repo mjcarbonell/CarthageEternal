@@ -1,0 +1,9 @@
+1741.1.1 = { discovered_by = RUS }
+
+discovered_by = western
+
+discovered_by = eastern
+
+discovered_by = muslim
+
+discovered_by = ottoman778.1.1 = { discovered_by = GBR }

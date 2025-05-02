@@ -1,0 +1,23 @@
+# No previous file for Chehalis
+
+culture = salish
+religion = totemism
+capital = "Chehalis"
+trade_goods = unknown
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+native_size = 5
+native_ferocity = 1
+native_hostileness = 2
+tribal_#owner =  SAL
+
+
+discovered_by = western
+
+discovered_by = eastern
+
+discovered_by = muslim
+
+discovered_by = ottoman

@@ -1,0 +1,22 @@
+#4504 - Nasirpur
+
+#owner =  SND
+#controller =SND
+culture = sindhi
+religion = sunni
+capital = "Nasirpur"
+trade_goods = cotton
+hre = no
+base_tax = 3
+base_production = 4
+base_manpower = 1
+is_city = yes
+#add_core = SND
+
+discovered_by = western
+
+discovered_by = eastern
+
+discovered_by = muslim
+
+discovered_by = ottoman

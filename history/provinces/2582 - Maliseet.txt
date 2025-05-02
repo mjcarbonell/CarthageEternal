@@ -1,0 +1,24 @@
+# No previous file for Maliseet
+
+culture = maliseet
+religion = totemism
+capital = "Maliseet"
+trade_goods = unknown
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+native_size = 5
+native_ferocity = 1
+native_hostileness = 2
+tribal_#owner =  MLS
+
+
+
+discovered_by = western
+
+discovered_by = eastern
+
+discovered_by = muslim
+
+discovered_by = ottoman} # Treaty of Paris - ceded to Britain, France gave up its claim

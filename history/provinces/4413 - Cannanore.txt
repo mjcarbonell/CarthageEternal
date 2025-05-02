@@ -1,0 +1,22 @@
+#4413 - Cannanore
+
+#owner =  KLT
+#controller =KLT
+culture = malayalam
+religion = hinduism
+capital = "Cannanore"
+trade_goods = spices
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 1
+is_city = yes
+#add_core = KLT
+
+discovered_by = western
+
+discovered_by = eastern
+
+discovered_by = muslim
+
+discovered_by = ottoman

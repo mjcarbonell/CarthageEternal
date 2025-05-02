@@ -1,0 +1,23 @@
+#1837 - Etchu
+
+##owner =  HTK
+##controller =HTK
+culture = togoku
+religion = shinto
+capital = "Kanazawa"
+trade_goods = grain
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 3
+is_city = yes
+#add_core = SBA
+fort_15th = yes #Nanao Castle
+
+discovered_by = western
+
+discovered_by = eastern
+
+discovered_by = muslim
+
+discovered_by = ottoman1583.6.14 = { ##owner =  MAE ##controller =MAE #add_core = MAE remove_core = ODA }

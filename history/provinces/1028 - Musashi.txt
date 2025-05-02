@@ -1,0 +1,22 @@
+#1028 - Musashi
+
+##owner =  UES
+##controller =UES
+culture = togoku
+religion = shinto
+capital = "Kawagoe"
+trade_goods = fish
+hre = no
+base_tax = 6
+base_production = 6
+base_manpower = 3
+is_city = yes
+#add_core = UES
+
+discovered_by = western
+
+discovered_by = eastern
+
+discovered_by = muslim
+
+discovered_by = ottoman

@@ -1,0 +1,14 @@
+#784 - Huillimapu
+
+#owner =  MPC
+#controller =MPC
+#add_core = MPC
+culture = mapuche
+
+discovered_by = western
+
+discovered_by = eastern
+
+discovered_by = muslim
+
+discovered_by = ottoman

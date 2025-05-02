@@ -1,0 +1,26 @@
+#673 - Bozhou
+
+#owner =  MNG
+#controller =MNG
+#add_core = MNG
+#add_core = CMI
+culture = miao
+religion = animism
+capital = "Zhenyuan"
+trade_goods = tea
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+is_city = yes
+
+
+
+
+discovered_by = western
+
+discovered_by = eastern
+
+discovered_by = muslim
+
+discovered_by = ottoman

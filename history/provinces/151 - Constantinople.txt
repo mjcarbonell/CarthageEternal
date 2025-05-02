@@ -1,0 +1,23 @@
+#151 - Constantinople
+
+##owner =  BYZ
+##controller =BYZ
+culture = greek
+religion = orthodox
+capital = "Constantinople"
+trade_goods = glass
+hre = no
+base_tax = 8 
+base_production = 8
+base_manpower = 4
+is_city = yes
+fort_15th = yes 
+#add_core = BYZ
+
+discovered_by = western
+
+discovered_by = eastern
+
+discovered_by = muslim
+
+discovered_by = ottoman

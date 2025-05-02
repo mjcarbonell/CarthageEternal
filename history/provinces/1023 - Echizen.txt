@@ -1,0 +1,23 @@
+#1023 - Echizen
+
+##owner =  SBA
+##controller =SBA
+culture = japanese
+religion = shinto
+capital = "Takefu"
+trade_goods = paper
+hre = no
+base_tax = 3
+base_production = 4
+base_manpower = 2
+is_city = yes
+#add_core = SBA
+#add_core = ASA
+
+discovered_by = western
+
+discovered_by = eastern
+
+discovered_by = muslim
+
+discovered_by = ottoman

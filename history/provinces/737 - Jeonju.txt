@@ -1,0 +1,22 @@
+#737 - Jeonju
+
+#owner =  KOR
+#controller =KOR
+culture = korean
+religion = confucianism
+capital = "Jeonju"
+trade_goods = chinaware
+hre = no
+base_tax = 4 
+base_production = 4
+base_manpower = 2
+is_city = yes
+#add_core = KOR
+
+discovered_by = western
+
+discovered_by = eastern
+
+discovered_by = muslim
+
+discovered_by = ottoman

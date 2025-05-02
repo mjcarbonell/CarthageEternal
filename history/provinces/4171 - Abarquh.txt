@@ -1,0 +1,23 @@
+#4171 - Abarquh
+
+#owner =  TIM
+#controller =TIM
+culture = persian
+religion = sunni
+capital = "Abarquh"
+trade_goods = livestock #known for its pastures for Timurid armies
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+is_city = yes
+#add_core = ISF
+#add_core = TIM
+
+discovered_by = western
+
+discovered_by = eastern
+
+discovered_by = muslim
+
+discovered_by = ottoman1779.1.1 = { unrest = 0 } # With the Qajar dynasty the situation stabilized

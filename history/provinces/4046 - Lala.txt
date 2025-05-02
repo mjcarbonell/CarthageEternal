@@ -1,0 +1,22 @@
+#4046 - Lala
+
+culture = bemba
+religion = shamanism #Fetishism
+trade_goods = unknown
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+native_size = 40
+native_ferocity = 4
+native_hostileness = 9
+
+capital = "Lala"
+
+discovered_by = western
+
+discovered_by = eastern
+
+discovered_by = muslim
+
+discovered_by = ottomaniscovered_by = central_african

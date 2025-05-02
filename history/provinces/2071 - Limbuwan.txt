@@ -1,0 +1,22 @@
+#2071 - Limbuwan
+
+#owner =  LWA
+#controller =LWA
+culture = nepali
+religion = vajrayana
+capital = "Phedap"
+trade_goods = wool
+hre = no
+base_tax = 2 
+base_production = 1
+base_manpower = 1
+is_city = yes
+#add_core = LWA
+
+discovered_by = western
+
+discovered_by = eastern
+
+discovered_by = muslim
+
+discovered_by = ottoman}

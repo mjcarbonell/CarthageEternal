@@ -1,0 +1,22 @@
+#2740 - Waikato
+
+#add_core = TAN
+#owner =  TAN
+#controller =TAN
+culture = maori
+religion = animism
+hre = no
+capital = "Kirikiriroa"
+is_city = yes
+trade_goods = fish
+base_tax = 4 
+base_production = 4
+base_manpower = 2
+
+discovered_by = western
+
+discovered_by = eastern
+
+discovered_by = muslim
+
+discovered_by = ottoman1642.1.1 = { discovered_by = NED } # Abel Tasman

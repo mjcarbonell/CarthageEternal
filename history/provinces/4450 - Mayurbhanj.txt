@@ -1,0 +1,22 @@
+#4450 - Mayurbhanj
+
+#owner =  KJH
+#controller =KJH
+culture = garjati
+religion = hinduism
+capital = "Mayurbhanj"
+trade_goods = iron
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 2
+is_city = yes
+#add_core = KJH
+
+discovered_by = western
+
+discovered_by = eastern
+
+discovered_by = muslim
+
+discovered_by = ottoman

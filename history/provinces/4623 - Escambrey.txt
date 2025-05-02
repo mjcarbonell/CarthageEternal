@@ -1,0 +1,21 @@
+# No previous file for Escambrey
+
+culture = arawak
+religion = animism
+capital = "Escambrey"
+trade_goods = unknown 
+hre = no
+base_tax = 2
+base_production = 3
+base_manpower = 1
+native_size = 10
+native_ferocity = 1
+native_hostileness = 3
+
+discovered_by = western
+
+discovered_by = eastern
+
+discovered_by = muslim
+
+discovered_by = ottoman1532.1.1 = { unrest = 0 } # Guama is killed

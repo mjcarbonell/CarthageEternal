@@ -1,0 +1,23 @@
+#2744 - Gyeongsang
+
+#owner =  KOR
+#controller =KOR
+culture = korean
+religion = confucianism
+capital = "Gyeongju"
+trade_goods = tea
+hre = no
+base_tax = 5
+base_production = 5
+base_manpower = 2
+is_city = yes
+#add_core = KOR
+fort_15th = yes
+
+discovered_by = western
+
+discovered_by = eastern
+
+discovered_by = muslim
+
+discovered_by = ottoman

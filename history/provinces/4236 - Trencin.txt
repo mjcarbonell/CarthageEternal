@@ -1,0 +1,24 @@
+#4236 - Trencin
+
+#owner =  HUN
+#controller =HUN 
+culture = slovak
+religion = catholic
+capital = "Trencin"
+trade_goods = iron
+hre = no
+base_tax = 2
+base_production = 3
+base_manpower = 1
+is_city = yes
+fort_15th = yes #Trencin Castle
+#add_core = HUN
+#add_core = SLO
+
+discovered_by = western
+
+discovered_by = eastern
+
+discovered_by = muslim
+
+discovered_by = ottoman

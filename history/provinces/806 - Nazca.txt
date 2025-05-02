@@ -1,0 +1,21 @@
+#806 - Nazca
+
+culture = inca
+religion = inti
+capital = "Nazca"
+trade_goods = fish
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+
+
+
+
+discovered_by = western
+
+discovered_by = eastern
+
+discovered_by = muslim
+
+discovered_by = ottoman

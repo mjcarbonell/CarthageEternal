@@ -1,0 +1,24 @@
+#4152 - Kuusamo incl Maanselk� and Kitka
+
+#owner =  SWE
+#controller =SWE
+#add_core = SWE
+#add_core = SMI
+culture = sapmi
+religion = catholic
+hre = no
+base_tax = 1 
+base_production = 1
+trade_goods = fur
+base_manpower = 1
+add_local_autonomy = 80
+capital = "Maanselk�"
+is_city = yes
+
+discovered_by = western
+
+discovered_by = eastern
+
+discovered_by = muslim
+
+discovered_by = ottoman} # Treaty of Fredrikshamn

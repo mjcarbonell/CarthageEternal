@@ -1,0 +1,25 @@
+# 2128 - Ngari
+
+#owner =  GUG
+#controller =GUG
+#add_core = GUG
+culture = tibetan
+religion = vajrayana
+#capital = "Ngari"
+trade_goods = gold
+hre = no
+base_tax = 1 
+base_production = 1
+base_manpower = 1
+is_city = yes
+
+
+
+
+discovered_by = western
+
+discovered_by = eastern
+
+discovered_by = muslim
+
+discovered_by = ottoman} # U-tsang integrated into Qing empire after Sino-nepalese war

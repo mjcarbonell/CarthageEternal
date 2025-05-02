@@ -1,0 +1,24 @@
+#2311 - Samawah
+
+#owner =  QAR
+#controller =QAR
+culture = al_iraqiya_arabic
+religion = shiite
+capital = "Najaf"
+trade_goods = spices #Dates
+hre = no
+base_tax = 3 
+base_production = 3
+base_manpower = 2
+is_city = yes
+#add_core = BSR
+#add_core = QAR
+#add_core = MSY
+
+discovered_by = western
+
+discovered_by = eastern
+
+discovered_by = muslim
+
+discovered_by = ottoman

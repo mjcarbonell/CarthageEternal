@@ -1,0 +1,25 @@
+#1120 - Bambuk
+
+##owner =  MAL
+##controller =MAL
+culture = soninke
+is_city = yes
+base_manpower = 2
+religion = shamanism #Fetishism
+capital = "Bambuk"
+trade_goods = gold
+hre = no
+base_tax = 6 
+base_production = 6
+#add_core = MAL
+
+
+
+
+discovered_by = western
+
+discovered_by = eastern
+
+discovered_by = muslim
+
+discovered_by = ottoman

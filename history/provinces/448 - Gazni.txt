@@ -1,0 +1,23 @@
+#448 - Gazni
+
+#owner =  AFG
+#controller =AFG
+culture = afghani
+religion = sunni
+capital = "Gazni"
+trade_goods = grain
+hre = no
+base_tax = 2 
+base_production = 2
+base_manpower = 3
+is_city = yes
+#add_core = TIM
+#add_core = AFG
+
+discovered_by = western
+
+discovered_by = eastern
+
+discovered_by = muslim
+
+discovered_by = ottoman
